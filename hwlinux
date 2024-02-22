@@ -1,0 +1,12 @@
+   0 cd /home
+   1 vi grigory.txt
+   2 df -h | tail -3
+   3 df -h | tail -3 >> grigory.txt
+   4 ls -l
+   5 chmod g+w /home/grigory.txt
+   6 ls -l
+   7 chmod u-r /home/grigory.txt
+   8 chmod o+x /home/grigory.txt
+   9 ls-l
+  10 ls -l
+  11 history >> hwlinux
